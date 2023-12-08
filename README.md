@@ -1,4 +1,4 @@
-**This is a mock repository.** 
+**This is a mock repository represents contributions that I made for Carelon Global Solutions / Legato from December 21 2022 to December 8 2023.** 
 
 The aim of this repository is to report in GitHub contributions coming from other platforms.
 

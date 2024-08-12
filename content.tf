@@ -1,1 +1,1 @@
-resource "random_string" "jsnew" { length = 10 }
+resource "random_string" "xygrc" { length = 10 }

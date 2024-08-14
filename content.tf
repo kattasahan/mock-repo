@@ -1,1 +1,1 @@
-resource "random_string" "ylmsw" { length = 10 }
+resource "random_string" "agmac" { length = 10 }

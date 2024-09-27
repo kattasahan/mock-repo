@@ -5,3 +5,4 @@ resource "random_string" "vtush" { length = 10 }
 resource "random_string" "iicli" { length = 10 }
 resource "random_string" "lfsch" { length = 10 }
 resource "random_string" "xjmqo" { length = 10 }
+resource "random_string" "sgdol" { length = 10 }

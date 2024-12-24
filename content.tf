@@ -8,3 +8,4 @@ resource "random_string" "xjmqo" { length = 10 }
 resource "random_string" "udvbk" { length = 10 }
 resource "random_string" "qxtoj" { length = 10 }
 resource "random_string" "eoghp" { length = 10 }
+resource "random_string" "fargb" { length = 10 }
